@@ -1,0 +1,18 @@
+﻿.prodibi-align-left {
+    width:100%;
+    text-align:left;
+}
+
+.prodibi-align-center {
+    width: 100%;
+    text-align: center;
+}
+
+.prodibi-align-right {
+    width: 100%;
+    text-align: right;
+}
+
+.prodibi-fill-height {
+    height:100%;
+}
