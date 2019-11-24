@@ -1,0 +1,140 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3474763, 2017-10-30T05:37:26-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: ProximaNovaA-Bold by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/a-bold/
+ * 
+ * Webfont: ProximaNovaS-Bold by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/s-bold/
+ * 
+ * Webfont: ProximaNova-Bold by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/bold/
+ * 
+ * Webfont: ProximaNovaA-Light by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/a-light/
+ * 
+ * Webfont: ProximaNovaA-Regular by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/a-regular/
+ * 
+ * Webfont: ProximaNovaS-Light by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/s-light/
+ * 
+ * Webfont: ProximaNova-Light by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/light/
+ * 
+ * Webfont: ProximaNovaS-Regular by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/s-regular/
+ * 
+ * Webfont: ProximaNova-Regular by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/regular/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3474763
+ * Licensed pageviews: 1,000,000
+ * Webfonts copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("https://hello.myfonts.net/count/35054b");
+
+
+@font-face {font-family: 'ProximaNovaA-Bold';src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_0_0.eot');src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_0_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_0_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_0_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaS-Bold';src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_1_0.eot');src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_1_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_1_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_1_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNova-Bold';src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_2_0.eot');src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_2_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_2_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_2_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaA-Light';src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_3_0.eot');src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_3_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_3_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_3_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaA-Regular';src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_4_0.eot');src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_4_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_4_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_4_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaS-Light';src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_5_0.eot');src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_5_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_5_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_5_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNova-Light';src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_6_0.eot');src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_6_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_6_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_6_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaS-Regular';src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_7_0.eot');src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_7_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_7_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_7_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_7_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNova-Regular';src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_8_0.eot');src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_8_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_8_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_8_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_8_0.ttf') format('truetype');}
+
+/*
+@font-face {
+    font-family: 'ProximaNovaA';
+    font-weight: bold;
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_0_0.eot');
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_0_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_0_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_0_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_0_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ProximaNovaS';
+    font-weight: bold;
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_1_0.eot');
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_1_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_1_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_1_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_1_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    font-weight: bold;
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_2_0.eot');
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_2_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_2_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_2_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_2_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ProximaNovaA';
+    font-weight: lighter;
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_3_0.eot');
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_3_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_3_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_3_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_3_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    font-weight: normal;
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_4_0.eot');
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_4_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_4_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_4_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_4_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ProximaNovaS';
+    font-weight: lighter;
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_5_0.eot');
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_5_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_5_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_5_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_5_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    font-weight: lighter;
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_6_0.eot');
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_6_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_6_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_6_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_6_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ProximaNovaS';
+    font-weight: normal;
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_7_0.eot');
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_7_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_7_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_7_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_7_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    font-weight: normal;
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_8_0.eot');
+    src: url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_8_0.eot#iefix') format('embedded-opentype'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_8_0.woff2') format('woff2'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_8_0.woff') format('woff'),url('https://czapek.com/wp-content/themes/storefront-child/dist/assets/fonts/proxima-nova/webfonts/35054B_8_0.ttf') format('truetype');
+}
+*/
